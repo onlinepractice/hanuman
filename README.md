@@ -7,3 +7,6 @@ git config --global user.name "Your Name"
 After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
+
+refer this GIT tutorial: https://www.siteground.com/tutorials/git/commands.htm
+or if you are expert, refer this: http://www.kernel.org/pub/software/scm/git/docs/
